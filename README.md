@@ -3,6 +3,7 @@ Personal Python documentation translation in Chinese, see https://www.python.org
 
 The Documentation Contribution Agreement is as following:
 
+```
 NOTE REGARDING THE LICENSE FOR TRANSLATIONS: Python's documentation is
 maintained using a global network of volunteers. By posting this
 project on Transifex, GitHub, and other public places, and inviting
@@ -20,4 +21,5 @@ Python community is welcomed and appreciated.
 
 You signify acceptance of this agreement by submitting your work to
 the PSF for inclusion in the documentation.
+```
 
